@@ -1,0 +1,29 @@
+{
+	"name":"Orient 499"
+,	"providers":["facebook/orient499","instagram/orient499"]
+,	"email":"info@orient499.com"
+,	"url":"http://www.orient499.com"
+,	"map":{
+		"style":"purple rain"
+	,	"zoomClose":15
+	,	"zoomFar":18
+	}
+,	"analytics":false
+,	"albums":[
+		{
+			"provider":"facebook"
+		,	"selector":"#website"
+		,	"field":"description"
+		,	"sortBy":"title"
+		}
+	]
+,	"info":"facebook"
+,	"location":"facebook"
+,	"colors":{
+		"color_accent_main": "#b39d54"
+	,	"color_accent_second": "#b39d54"
+	,	"color_background": "#F6F5E2"
+	}
+,	"template":"drawer"
+,	"showLogoTitle":true
+}
